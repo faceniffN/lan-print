@@ -1,0 +1,15 @@
+## 构建产物
+bin/
+obj/
+publish/
+*.user
+
+## Visual Studio
+.vs/
+*.suo
+
+## 配置（含本机 IP 等）
+config.json
+
+## 日志
+*.log
